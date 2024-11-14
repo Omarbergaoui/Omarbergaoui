@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bergaouimohamedomar.10@gmail.com**
 
-- 📄 Know about my experiences [I'm a 4th-year software engineering student at the Higher Institute of Applied Sciences and Technologies of Sousse, where I've developed a solid foundation in engineering principles and programming. My experience includes two years of integrated preparatory studies and advanced work in web and backend development, specializing in full-stack applications with Angular, React, and Spring Boot.](I'm a 4th-year software engineering student at the Higher Institute of Applied Sciences and Technologies of Sousse, where I've developed a solid foundation in engineering principles and programming. My experience includes two years of integrated preparatory studies and advanced work in web and backend development, specializing in full-stack applications with Angular, React, and Spring Boot.)
+- 📄 Know about my experiences: I'm a 4th-year software engineering student at the Higher Institute of Applied Sciences and Technologies of Sousse, where I've developed a solid foundation in engineering principles and programming. My experience includes two years of integrated preparatory studies and advanced work in web and backend development, specializing in full-stack applications with Angular, React, and Spring Boot.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
